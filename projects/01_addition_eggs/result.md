@@ -51,7 +51,6 @@ I (15936) EGGS_MATH: 📖 อ่านต่อในโปรเจคถัด
 I (17936) main_task: Returned from app_main()
 ```
 ```
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d2b620e-5eab-4b03-8e32-b7ed2c229a18" />
 
 ```
